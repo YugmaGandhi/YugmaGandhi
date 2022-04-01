@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @YugmaGandhi
+- 👀 I’m interested in python developement
+- 🌱 I’m currently learning Python
+- 📫 You can reach me on instagram too @__yugma__
