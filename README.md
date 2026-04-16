@@ -1,8 +1,17 @@
+<div align="center">
+
 # Hey, I'm Yugma Gandhi 👋
 
-Full-Stack Engineer building open-source infrastructure. Currently focused on auth, identity, and backend systems.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Building+OSS+Identity+Infrastructure;TypeScript+%C2%B7+Node.js+%C2%B7+PostgreSQL;Open+to+Work)](https://git.io/typing-svg)
 
-**Open to work** — backend, full-stack, or platform engineering roles.
+<p>
+  Full-Stack Engineer building open-source infrastructure.<br/>
+  Currently focused on auth, identity, and backend systems.
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YugmaGandhi&style=flat&color=6E40C9&label=Profile+Views)
+
+</div>
 
 ---
 
@@ -19,6 +28,12 @@ A production-grade, self-hostable authentication platform. No vendor lock-in, no
 ```bash
 npm install @griffon/js
 ```
+
+---
+
+## Currently Exploring
+
+**RabbitMQ** — digging into message queues and event-driven architecture. Looking at how async messaging fits into auth flows (e.g. async webhook fanout, email delivery pipelines).
 
 ---
 
@@ -46,10 +61,20 @@ npm install @griffon/js
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YugmaGandhi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugmaGandhi&layout=compact&theme=github_dark&hide_border=true" height="160" />
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=YugmaGandhi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugmaGandhi&layout=compact&theme=github_dark&hide_border=true&count_private=true" height="160" /></td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YugmaGandhi&theme=github-dark&hide_border=true" height="160" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YugmaGandhi&theme=github-compact&hide_border=true&area=true" width="100%" />
+
+</div>
 
 ---
 
